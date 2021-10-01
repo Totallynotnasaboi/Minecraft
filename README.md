@@ -12,9 +12,9 @@ I will try to update the game further to a full fledged game.
 To install, clone the repository. You have to have python 3.6+ installed and ursina engine installed.
 You can do it like this:
 
- ` ` `
+` ` `
 pip install ursina
-  ` ` `
+` ` `
 
 Then just run the python script. If you have a windows machine, you can contribute and compile the actual game with this command (you need to open cmd at the project directory):
 
